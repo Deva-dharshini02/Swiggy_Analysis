@@ -70,4 +70,4 @@ By transforming raw data into meaningful visualizations, this dashboard supports
 * Storytelling with Data
 
 ## Dashboard Preview
-![Dsahboard](Dsahboard.png)
+![Dashboard](Dsahboard.png)
