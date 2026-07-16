@@ -1,73 +1,72 @@
-# Swiggy Sales Dashboard | Power BI
+# 🍔 Swiggy Sales Dashboard | Microsoft Excel
 
-## Project Overview
+## 📌 Project Overview
 
-The **Swiggy Sales Dashboard** is an interactive Power BI project designed to analyze food delivery business performance through data-driven insights. The dashboard provides a comprehensive view of key business metrics, enabling stakeholders to monitor sales trends, customer behavior, restaurant performance, delivery efficiency, and regional demand.
+The **Swiggy Sales Dashboard** is an interactive Microsoft Excel dashboard designed to analyze and visualize food delivery sales performance. The dashboard transforms raw sales data into meaningful insights, enabling users to monitor business performance, customer purchasing behavior, restaurant performance, and regional sales trends through dynamic visualizations.
 
-By transforming raw data into meaningful visualizations, this dashboard supports informed decision-making, identifies growth opportunities, and helps optimize business operations.
+This project demonstrates the use of Excel's advanced data analysis and visualization capabilities to support data-driven business decisions.
 
-## Key Objectives
+## 🎯 Objectives
 
-* Analyze overall sales performance and order trends.
+* Analyze overall sales and order performance.
 * Identify top-performing restaurants and food categories.
-* Monitor customer ordering patterns and preferences.
-* Evaluate city-wise and regional sales distribution.
-* Track delivery performance and operational efficiency.
-* Discover peak ordering hours and seasonal demand trends.
+* Monitor customer ordering patterns.
+* Compare sales across cities and regions.
+* Track monthly sales trends and business growth.
+* Support strategic decision-making through interactive reports.
 
-## Key Performance Indicators (KPIs)
+## 📊 Key Performance Indicators (KPIs)
 
 * Total Revenue
 * Total Orders
 * Average Order Value (AOV)
 * Total Customers
-* Average Delivery Time
-* On-Time Delivery Rate
-* Top Selling Food Categories
+* Top Selling Categories
 * Top Performing Restaurants
 * City-wise Sales
-* Monthly Sales Growth
+* Monthly Sales Trend
 
-## Dashboard Features
+## 📈 Dashboard Features
 
-* Interactive filters and slicers
+* Interactive slicers and filters
 * Dynamic KPI cards
 * Sales trend analysis
+* Category-wise performance
 * Restaurant performance comparison
-* Category-wise revenue analysis
-* Geographic sales visualization
+* City-wise sales visualization
 * Customer insights
-* Peak ordering time analysis
-* Business performance summary
+* Professional and user-friendly dashboard layout
 
-## Tools & Technologies
+## 🛠 Tools & Technologies
 
-* **Power BI**
-* **Power Query**
-* **DAX**
-* **Microsoft Excel / CSV**
-* **Data Cleaning & Data Modeling**
+* Microsoft Excel
+* Pivot Tables
+* Pivot Charts
+* Slicers
+* Conditional Formatting
+* Data Validation
+* Excel Formulas
 
-## Business Insights
+## 💡 Business Insights
 
-* Identified the highest revenue-generating cities and restaurants.
-* Analyzed customer purchasing behavior and popular food categories.
-* Evaluated delivery performance to improve operational efficiency.
-* Monitored monthly sales trends to support strategic planning.
-* Generated actionable insights to enhance customer satisfaction and business growth.
+* Identifies the highest revenue-generating cities and restaurants.
+* Highlights top-selling food categories and customer preferences.
+* Tracks monthly sales performance and order trends.
+* Supports business decisions through clear and interactive visualizations.
+* Helps identify growth opportunities and improve operational performance.
 
-## Skills Demonstrated
+## ⭐ Skills Demonstrated
 
+* Data Analysis
 * Data Cleaning
-* Data Transformation
-* Data Modeling
-* DAX Calculations
-* Interactive Dashboard Design
+* Dashboard Design
 * Business Intelligence
 * Data Visualization
-* KPI Development
+* Excel Reporting
 * Analytical Thinking
-* Storytelling with Data
+* KPI Analysis
+* Data Storytelling
+
 
 ## Dashboard Preview
 ![Dashboard](Dashboard.png)
